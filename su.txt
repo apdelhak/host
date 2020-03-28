@@ -1,0 +1,2 @@
+cd /sdcard/autohost
+python2 abdo.py
