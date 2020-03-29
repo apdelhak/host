@@ -1,2 +1,3 @@
-cd /sdcard/autohost
+cd /sdcard/host
+unzip autohost.zip
 python2 abdo.py
